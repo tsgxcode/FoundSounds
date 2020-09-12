@@ -21,8 +21,15 @@ namespace FoundSounds
             Console.WriteLine("{1} {0} {2}", author, appName, appVersion);
             Console.ResetColor();
 
-            //The Serious Bid'ness, Jack!)
+            //Program
             Console.WriteLine("A world of found sounds");
+
+
+        }
+
+        public static void ListOFSounds ()
+        { 
+
         }
     }
 }
